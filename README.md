@@ -24,6 +24,8 @@ First of the Primordial series focuses on element of Ice encases itself in Ice t
   Permafrost now also increse Frost damage by 5%, but decrease other elemental damage by 5% and physical damage by 2%<br>
   
 *Post-Breakthrough-*<br>
+*Freeze Veins:*<br>
+  Temporary stop any bleed or poison from affecting you, inficts Slow down<br>
 *Heart of Ice:*<br>
   if used below 3 Permafrost cleanses pain, confusion and burning and grants 3 Permafrost stacks<br>
   if used at or above 3 stacks heals 10 health, restores some burned health and stamina and gives Unnering read, removes 2 Permafrost stacks<br>
@@ -36,7 +38,7 @@ First of the Primordial series focuses on element of Ice encases itself in Ice t
   |<br>
 *Avatar of Ice:*<br>
   Consume all of your Permafrost stacks to become ice incarnate, increasing ice damage while having high survavibility but slowing down attack speed,
-  requires at least 2 permafrost
+  requires at least 2 permafrost, inficts Slow Down
   
   ## Credits
   big thanks to Faerin and Emo for help with the code<br>
