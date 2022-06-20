@@ -38,7 +38,7 @@ First of the Primordial series focuses on element of Ice encases itself in Ice t
   Consume all of your Permafrost stacks to become ice incarnate, increasing ice damage while having high survavibility but slowing down attack speed,
   requires at least 2 permafrost
   
-  # Credits
+  ## Credits
   big thanks to Faerin and Emo for help with the code<br>
   Emo again for helping with the visuals as well<br>
   Iggy The Mad for introduction to SideLoader<br>
